@@ -1,0 +1,7 @@
+package com.cyx.l008intents;
+
+import android.app.Activity;
+
+public class ImageViewer extends Activity {
+
+}
