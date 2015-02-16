@@ -1,0 +1,12 @@
+package com.cys.lusinglistview;
+
+public class CustomListCellData {
+	
+	public CustomListCellData(String name,String dec,int iconId) {
+		// TODO Auto-generated constructor stub
+	}
+	
+	public String name = "";
+	public String dec = "";
+	public int iconId = 0;
+}

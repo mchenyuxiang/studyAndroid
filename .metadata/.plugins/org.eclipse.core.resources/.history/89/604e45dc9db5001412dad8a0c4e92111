@@ -1,0 +1,8 @@
+package com.cys.lusinglistview;
+
+public class CustomListCellData {
+	
+	public CustomListCellData() {
+		// TODO Auto-generated constructor stub
+	}
+}

@@ -1,0 +1,12 @@
+package com.cys.lusinglistview;
+
+public class ListCellData {
+
+	public ListCellData() {
+		// TODO Auto-generated constructor stub
+	}
+	
+	private String userName = "小丽";
+	private String sex = "女";
+	private int age = 0;
+}

@@ -1,7 +1,0 @@
-package com.cyx.l008intents;
-
-import android.app.Activity;
-
-public class Aty1 extends Activity{
-
-}

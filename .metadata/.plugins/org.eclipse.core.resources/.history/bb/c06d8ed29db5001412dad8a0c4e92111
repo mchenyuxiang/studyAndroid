@@ -1,0 +1,5 @@
+package com.cys.lusinglistview;
+
+public class CustomListCellData {
+
+}
